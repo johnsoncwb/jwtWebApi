@@ -1,0 +1,30 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{23FE915C-BD3A-470C-A1EF-BC35C0917617}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JwtWebApiTutorial PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JwtWebApiTutorial/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="JwtWebApiTutorial/Program.cs" Line="27" Column="1" />
+      <File FileName="JwtWebApiTutorial/UserDto.cs" Line="11" Column="7" />
+      <File FileName="JwtWebApiTutorial/User.cs" Line="10" Column="1" />
+      <File FileName="JwtWebApiTutorial/Controllers/AuthController.cs" Line="27" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JwtWebApiTutorial" expanded="True">
+            <Node name="JwtWebApiTutorial" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
